@@ -1,0 +1,62 @@
+
+.main {
+	background-color:lightblue;
+	width:500px;
+	margin:0;
+	
+}
+
+.accord{
+	width:460px;
+	height:20px;
+	padding:20px;
+	border:1px solid black;
+	margin:0;
+	position:relative;
+	text-align:center;
+}
+
+.accord i {
+	position:absolute;
+	top:1%;
+	left:1%;
+}
+
+.accord51{
+	width:400px;
+	height:80px;
+	padding:50px;
+	border:1px solid black;
+	display:none;
+	margin:0;
+
+}
+.accord52{
+	width:400px;
+	height:80px;
+	padding:50px;
+	border:1px solid black;
+	display:none;
+	margin:0;
+
+}
+.accord53{
+	width:400px;
+	height:80px;
+	padding:50px;
+	border:1px solid black;
+	display:none;
+	margin:0;
+
+}
+.accord54{
+	width:400px;
+	height:80px;
+	padding:50px;
+	border:1px solid black;
+	display:none;
+	margin:0;
+
+}
+
+
