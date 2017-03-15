@@ -1,43 +1,25 @@
+document.getElementById("field").addEventListener('keydown', function(event) {
+    if (event.which < 58 && event.which > 47) {
+        return true;
+    } else {
+        event.preventDefault();
+        return false;}
+    })
 
-function plusa() {
-	var x = document.getElementsByClassName("accord51");
-	 for (i=2; i<i+1; i++) {
-		if (i%2==0) { 
-		 x.style.display = "block"
 
-		} else {x.style.display = "none"}
-	}
-}
+document.getElementById('field').addEventListener('mouseover', function() {
+var c = this.value="+994-";
+var a = event.value.length ==3;
+var b = event.value.length ==2;
 
-function plusb() {
-	var x = document.getElementsByClassName("accord52");
-	for (i=2; i<i+1; i++) {
-		if (i%2==0) { 
-		 x.style.display = "block"
-
-		} else {x.style.display = "none"}
-	}
+c + a + "-" + b + "-" +b;
 
 }
-	
+)
 
-function plusc() {
-	var x = document.getElementsByClassName("accord53");
-	 for (i=2; i<i+1; i++) {
-		if (i%2==0) { 
-		 x.style.display = "block"
 
-		} else {x.style.display = "none"}
-	}
-}
 
-function plusd() {
-	var x = document.getElementsByClassName("accord54");
-	 for (i=2; i<i+1; i++) {
-		if (i%2==0) { 
-		 x.style.display = "block"
 
-		} else {x.style.display = "none"}
-	}
-}
-		
+
+
+
